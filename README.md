@@ -29,20 +29,6 @@ O design do projeto refatorado foca em um layout limpo e funcional, voltado para
 - **CSS3**: Para a estilização do layout e implementação do design responsivo.
 - **SVG**: Para a utilização de ícones e imagens escaláveis.
 
-## 📁 Estrutura do Projeto
-
-/bikcraft
-│
-├── index.html # Arquivo principal HTML
-├── style.css # Arquivo de estilos CSS
-└── /img # Pasta contendo imagens usadas no site
-├── bikcraft - By @iAzazelOfc 🔥.svg
-├── bicicleta - By @iAzazelOfc 🔥.jpg
-├── velocidade - By @iAzazelOfc 🔥.svg
-├── eletrica - By @iAzazelOfc 🔥.svg
-├── rastreador - By @iAzazelOfc 🔥.svg
-└── ... # Outras imagens e ícones usados no site
-
 ## 🔮 Funcionalidades Futuras
 
 - Implementação de um sistema de navegação interativo, com animações e transições.
